@@ -3,8 +3,7 @@
 ## Description:-
 #### House Price Prediction Test Model Based On Boston Dataset :- 
 
-A machine-learning web application that predicts house prices using
-Flask and XGBoost.
+  A Machine-learning web application that predicts house prices using Flask and XGBoost.
 
 Features:-
 - House price prediction
@@ -24,7 +23,7 @@ Tech Stack:-
 - Render
 
 Live Demo:-
-https://pricing-app-9jvq.onrender.com
+[Visit the House Price Prediction Demo App](https://pricing-app-9jvq.onrender.com)
 
 [GithubAccount](https://github.com/asshile-2007/Pricing)
 
